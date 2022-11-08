@@ -1,0 +1,15 @@
+F:\CS30\Traverse-Arrays-Practice\bin\Debug\net6.0\Traverse-Arrays-Practice.exe
+F:\CS30\Traverse-Arrays-Practice\bin\Debug\net6.0\Traverse-Arrays-Practice.deps.json
+F:\CS30\Traverse-Arrays-Practice\bin\Debug\net6.0\Traverse-Arrays-Practice.runtimeconfig.json
+F:\CS30\Traverse-Arrays-Practice\bin\Debug\net6.0\Traverse-Arrays-Practice.dll
+F:\CS30\Traverse-Arrays-Practice\bin\Debug\net6.0\Traverse-Arrays-Practice.pdb
+F:\CS30\Traverse-Arrays-Practice\obj\Debug\net6.0\Traverse-Arrays-Practice.csproj.AssemblyReference.cache
+F:\CS30\Traverse-Arrays-Practice\obj\Debug\net6.0\Traverse-Arrays-Practice.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Traverse-Arrays-Practice\obj\Debug\net6.0\Traverse-Arrays-Practice.AssemblyInfoInputs.cache
+F:\CS30\Traverse-Arrays-Practice\obj\Debug\net6.0\Traverse-Arrays-Practice.AssemblyInfo.cs
+F:\CS30\Traverse-Arrays-Practice\obj\Debug\net6.0\Traverse-Arrays-Practice.csproj.CoreCompileInputs.cache
+F:\CS30\Traverse-Arrays-Practice\obj\Debug\net6.0\Traverse-Arrays-Practice.dll
+F:\CS30\Traverse-Arrays-Practice\obj\Debug\net6.0\refint\Traverse-Arrays-Practice.dll
+F:\CS30\Traverse-Arrays-Practice\obj\Debug\net6.0\Traverse-Arrays-Practice.pdb
+F:\CS30\Traverse-Arrays-Practice\obj\Debug\net6.0\Traverse-Arrays-Practice.genruntimeconfig.cache
+F:\CS30\Traverse-Arrays-Practice\obj\Debug\net6.0\ref\Traverse-Arrays-Practice.dll
